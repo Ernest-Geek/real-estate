@@ -26,20 +26,6 @@ const Footer = () => {
           </Grid>
           <Grid item xs={12} md={4}>
           </Grid>
-          <Grid item xs={12} md={4}>
-            <Typography variant="h6" gutterBottom>
-              Contact Us
-            </Typography>
-            <Typography variant="body2">
-              Address: Fertilizer Link, Teshie Greda Estate, Accra, Ghana
-            </Typography>
-            <Typography variant="body2">
-              Phone: +233 50 811 9126
-            </Typography>
-            <Typography variant="body2">
-              Email: sales@goldfern.net
-            </Typography>
-          </Grid>
         </Grid>
         <Box mt={4} textAlign="center">
           <Typography variant="body2">
